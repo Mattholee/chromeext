@@ -1,1 +1,11 @@
 # chromeext
+
+
+EXTENSION IDEAS
+
+
+
+
+FEATURE LIST
+
+
